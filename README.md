@@ -23,7 +23,7 @@ Ensure you have Docker and Docker Compose installed on your machine:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/retributter/docker-whispers.git
+git clone https://github.com/retributter/docker-whispers.git && \
 cd docker-whispers
 ```
 
